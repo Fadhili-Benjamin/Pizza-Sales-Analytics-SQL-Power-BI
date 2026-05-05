@@ -14,3 +14,5 @@ Insights covered:
 Tools & Technologies: Microsoft SQL Server SQL Server Management Studio (SSMS) Microsoft Power BI DAX Data Visualisation
 
 Dataset: Pizza sales transaction data: January 2015 to December 2015
+
+ACCESS THE INTERACTIVE DASHBOARD: https://app.powerbi.com/view?r=eyJrIjoiNjkzOTRiM2EtMmM3Yy00MmNiLWJmY2QtMTBiYmYxZWViMGI3IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9
