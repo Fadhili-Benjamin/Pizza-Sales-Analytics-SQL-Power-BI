@@ -5,6 +5,9 @@ Key metrics analysed:
 Insights covered:
 •	Daily & monthly order trends
 •	Sales breakdown by pizza category and size
+
 •	Top 5 & Bottom 5 best/worst selling pizzas by revenue, quantity, and orders
+
 Tools & Technologies: Microsoft SQL Server SQL Server Management Studio (SSMS) Microsoft Power BI DAX Data Visualisation
+
 Dataset: Pizza sales transaction data: January 2015 to December 2015
