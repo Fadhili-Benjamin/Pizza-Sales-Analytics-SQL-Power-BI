@@ -17,4 +17,6 @@ Dataset: Pizza sales transaction data: January 2015 to December 2015
 
 ACCESS THE INTERACTIVE DASHBOARD: https://app.powerbi.com/view?r=eyJrIjoiNjkzOTRiM2EtMmM3Yy00MmNiLWJmY2QtMTBiYmYxZWViMGI3IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9
 
-ACCESS THE FULL REPORT: https://drive.google.com/file/d/17caNPQ2CeUySgl7IXaxfB8OXGmQXr1EX/view?usp=sharing
+ACCESS REPORT: https://drive.google.com/file/d/17caNPQ2CeUySgl7IXaxfB8OXGmQXr1EX/view?usp=sharing
+
+ACCESS PROBLEM STATEMENT: https://drive.google.com/file/d/1jTxwOqL75C8jbxPy_7mBXHU_ox0ILoLs/view?usp=sharing
